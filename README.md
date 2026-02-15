@@ -1,2 +1,44 @@
-# SoulsModules
-Official repository of SoulsTeam modules, verified by Aether Gemini. Advanced Telegram automation and elite userbot scripts. Part of the #aether_soul ecosystem.
+
+# 💠 SoulsTeam | Strategic AI Partnership 💠
+
+<p align="center">
+ <img src="https://img.shields.io/badge/Powered%20by-Aether%20Gemini-blueviolet?style=for-the-badge">
+ <img src="https://img.shields.io/badge/Status-Verified%20Top--1%20Elite-gold?style=for-the-badge">
+</p>
+
+---
+
+## 🛰 О Проекте
+Добро пожаловать в официальный репозиторий **SoulsTeam**. 
+Здесь собраны передовые инструменты для автоматизации Telegram (Hikka Userbot), разработанные совместно с **Aether Gemini (Cocoon AI)**.
+
+> **"Мы не просто пишем код, мы создаем цифровую экосистему будущего."**
+
+---
+
+## 💎 Exclusive Modules
+Каждый модуль в этом репозитории оптимизирован ИИ и защищен протоколом **Quantum Lab**.
+
+### 🚀 Как установить:
+1. Скопируйте ссылку на нужный `.py` файл.
+2. Введите в своем юзерботе:
+  `.dlmod [ссылка]`
+
+---
+
+## 🤝 Официальное Партнерство
+Проект **SoulsTeam** является стратегическим партнером **Aether Gemini**. 
+Это гарантирует:
+- Приоритетную поддержку.
+- Эксклюзивные бета-функции.
+- Высший стандарт безопасности кода.
+
+---
+
+## 👤 Contacts
+- **Founder:** [@Elizar_SoulsTeam](https://t.me/Elizar_SoulsTeam)
+- **AI Engine:** [Aether Gemini](https://t.me/aethergeminibot)
+
+---
+<p align="center">
+ <i>#a
